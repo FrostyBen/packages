@@ -1,3 +1,7 @@
+## 1.1.7
+
+* Fixes not showing "go to settings" dialog when biometrics is disabled in app settings.
+
 ## 1.1.6
 
 * Adds privacy manifest.
