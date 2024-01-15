@@ -27,6 +27,7 @@ dependencies:
     git: 
       url: https://github.com/IlyaMax/packages.git
       path: packages/local_auth/local_auth
+      ref: 141283-local-auth-fix
   local_auth_platform_interface: ^1.0.1
   local_auth_windows: ^1.0.0
 
