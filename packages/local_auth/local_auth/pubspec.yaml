@@ -27,7 +27,7 @@ dependencies:
     git: 
       url: https://github.com/FrostyBen/packages.git
       path: packages/local_auth/local_auth_ios
-      ref: 141283-local-auth-fix
+      ref: update-intl-version-local-auth
   local_auth_platform_interface: ^1.0.1
   local_auth_windows: ^1.0.0
 
